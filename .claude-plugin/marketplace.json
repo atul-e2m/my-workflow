@@ -1,8 +1,14 @@
 {
+  "name": "atul-e2m/my-workflow",
+  "owner": {
+    "name": "Atul Rathour",
+    "github": "atul-e2m"
+  },
   "plugins": [
     {
       "name": "my-workflow",
-      "path": "."
+      "path": ".",
+      "description": "Personal dev workflow: implement, scaffold, test, review, and guardrails"
     }
   ]
 }
